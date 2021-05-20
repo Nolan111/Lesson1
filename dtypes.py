@@ -1,0 +1,7 @@
+print(bool('Привет'))
+print(bool(""))
+print(bool(1))
+print(bool(0))
+print(bool(0.1))
+print(bool(-2))
+print(bool(None))
